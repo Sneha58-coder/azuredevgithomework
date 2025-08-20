@@ -1,1 +1,3 @@
 This is a Day43 homework
+Git supports branching and merging.
+Git is widely used for collaboration in software projects.
